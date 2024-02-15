@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/FS3Rk3WR)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13817784&assignment_repo_type=AssignmentRepo)
 # Phase 3 Code Challenge: Restaurants
 
 For this assignment, we'll be working with a restaurant review domain.
@@ -21,7 +19,7 @@ start coding_. Remember to identify a single source of truth for your data.
 - Class and Instance Methods
 - SQLAlchemy Querying
 
-***
+---
 
 ## Instructions
 
@@ -32,7 +30,7 @@ in a suggested order, but you can feel free to tackle the ones you think are
 easiest. Be careful: some of the later methods rely on earlier ones.
 
 **Remember!** This code challenge does not have tests. You cannot run `pytest`.
- You'll need to create your own sample instances so
+You'll need to create your own sample instances so
 that you can try out your code on your own. Make sure your relationships and
 methods work in the console before submitting.
 
@@ -54,7 +52,7 @@ your code to adhere to best practices.
 expect. If you have any methods that are not working yet, feel free to leave
 comments describing your progress.
 
-***
+---
 
 ## What You Already Have
 
@@ -79,7 +77,7 @@ schema currently looks like this:
 You will need to create the migration for the `reviews` table using the
 attributes specified in the deliverables below.
 
-***
+---
 
 ## Deliverables
 
